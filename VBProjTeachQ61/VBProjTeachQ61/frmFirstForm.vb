@@ -19,15 +19,15 @@
         Result = Hours * PayRate
         Tax = Result * 0.03
 
+
+
         lblResult.Text = Result
         lblTax.Text = Tax
 
     End Sub
 
-    
-
     Private Sub btnClose_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnClose.Click
-
+        Me.Close()
     End Sub
 
 
