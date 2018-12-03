@@ -8,3 +8,6 @@ D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.exe
 D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.xml
 D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.pdb
 D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.frmSecondForm.resources
+D:\VBProj61Q\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.exe
+D:\VBProj61Q\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.xml
+D:\VBProj61Q\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.pdb
