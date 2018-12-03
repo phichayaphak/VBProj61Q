@@ -1,0 +1,10 @@
+D:\VBProjTeachQ61\VBProjTeachQ61\bin\Debug\VBProjTeachQ61.exe
+D:\VBProjTeachQ61\VBProjTeachQ61\bin\Debug\VBProjTeachQ61.pdb
+D:\VBProjTeachQ61\VBProjTeachQ61\bin\Debug\VBProjTeachQ61.xml
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.frmFirstForm.resources
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.Resources.resources
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.vbproj.GenerateResource.Cache
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.exe
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.xml
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.pdb
+D:\VBProjTeachQ61\VBProjTeachQ61\obj\x86\Debug\VBProjTeachQ61.frmSecondForm.resources
